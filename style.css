@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+
+
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+    
+}
+a,h1{
+    display: inline;
+}
+span{
+    padding-left: 50%;
+}
+a:hover{
+    color: grey;
+    cursor: pointer;
+}
+a{
+    color:blue;
+}
+.PERFUME{
+    text-align: center;
+    margin: 25px;
+}
+span{
+    margin-top: 25px;
+}
+.PARAGRAPH{
+    margin: 50px;
+}
+.Box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 250px;
+    margin: 25px;
+    
+}
+.Box:hover{
+    color: black;
+    cursor: pointer;
+}
+.Box{
+    color: aliceblue;
+}
+.ABOUT P{
+    margin: 50px;
+}
+
+.PRODUCT{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+
+
+   
+    
+
+
+
+
+    
+
+
+
+    
+ 
+
+
+
+    
+
